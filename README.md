@@ -1,2 +1,2 @@
-# LinearAlgebra
-algebra notes 1st year uni
+# Linear Algebra
+algebra notes {uni 1st year}
